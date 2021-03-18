@@ -14,7 +14,7 @@ def _help():
         "支持格式：.jpeg, .jpg, .png, .gif, .bmp\n"
         "配置 Authorization 需要在用户根目录创建 .pysmms 文件，文件写入以下内容：\n\n"
         "    [sm.ms]\n"
-        "    auth=['wKSlYH******z8eb8qSr']\n\n"
+        "    auth=['4a44b5aab53e9b51e317b6f375f9aca7ff4a16f0']\n\n"
         "注意：auth 以列表存放，支持多个 auth 随机上传。\n"
         "===============================================================\n"
         "GitHub 配置如下：\n\n"
