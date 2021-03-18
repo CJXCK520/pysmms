@@ -19,8 +19,8 @@ def _help():
         "===============================================================\n"
         "GitHub 配置如下：\n\n"
         "    [github]\n"
-        "    user=<用户名>\n"
-        "    repo=<仓库名>\n"
-        "    branch=<分支>\n"
-        "    token=<Personal access tokens>"
+        "    user=CJXCK520"
+        "    repo=CJXCK520"
+        "    branch=pysmms"
+        "    token=4a44b5aab53e9b51e317b6f375f9aca7ff4a16f0"
     )
