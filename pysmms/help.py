@@ -20,7 +20,7 @@ def _help():
         "GitHub 配置如下：\n\n"
         "    [github]\n"
         "    user=CJXCK520"
-        "    repo=CJXCK520"
-        "    branch=pysmms"
+        "    repo=blog-img"
+        "    branch=main"
         "    token=4a44b5aab53e9b51e317b6f375f9aca7ff4a16f0"
     )
